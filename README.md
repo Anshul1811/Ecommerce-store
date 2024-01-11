@@ -27,10 +27,3 @@ Key Features:
 ```js
 NEXT_PUBLIC_API_URL=
 ```
-
-
-### Start the app
-
-```shell
-npm run dev
-```
